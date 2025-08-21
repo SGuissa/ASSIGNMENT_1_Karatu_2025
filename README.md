@@ -1,5 +1,4 @@
-# Website Clone Project
+# 🍲 Macaroni Recipe Page
 
-This project is a clone of a selected website, created for learning and practice purposes.  
-The goal is to replicate the layout, design, and basic functionality using **HTML, CSS, and JavaScript**.  
-
+This project is a simple **HTML and CSS recipe webpage** that displays how to prepare macaroni.  
+It is designed as a beginner-friendly project to practice **basic HTML structure, styling, and page layout**.
